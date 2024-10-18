@@ -1,0 +1,13 @@
+.saidbar{
+    height: 100vh;
+        background-color: #f8f9fa;
+
+
+}
+.saidbar li{
+    padding: 10px 5px;
+    text-align: center;
+}
+.saidbar li a{
+        text-decoration: none;
+}
